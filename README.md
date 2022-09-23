@@ -13,10 +13,10 @@ git clone https://github.com/Diman198B/Gruztehmontazh
 2. If you want to view the site, open the src/pages/index.html file in your browser.
 3. To get the compiled project files in the /dist folder for developer or production modes:
 ```
-npm install - Install required packages.
-npm start - Compile the project and track changes on the local server provided by webpack.
-npm run dev - Get compiled project files for Developer mode.
-npm run build - Get compiled project files for production mode.
+1. npm install - Install required packages.
+2. npm run dev - Get compiled project files for Developer mode.
+   npm run build - Get compiled project files for production mode.
+3. npm start - Compile the project and track changes on the local server provided by webpack.
 ```
 
 ## Troubleshooting:
@@ -47,10 +47,10 @@ git clone https://github.com/Diman198B/Gruztehmontazh
 2. Если хотите посмотреть сайт, откройте файл src/pages/index.html в своем браузере.
 3. Чтобы получить скомпилированные файлы проекта в папке /dist для режимов разработчика или продакшн:
 ```
-npm install -Установка необходимых пакетов.
-npm start - Компиляция проекта и отслеживание изменений на локальном сервере предоставляемым webpack.
-npm run dev - Получение скомпилированных файлов проекта для режима "Разработчика".
-npm run build - Получение скомпилированных файлов проекта для режима "Продакшн".
+1. npm install -Установка необходимых пакетов.
+2. npm run dev - Получение скомпилированных файлов проекта для режима "Разработчика".
+   npm run build - Получение скомпилированных файлов проекта для режима "Продакшн".
+3. npm start - Компиляция проекта и отслеживание изменений на локальном сервере предоставляемым webpack.
 ```
 
 ## Диагностика:
