@@ -16,7 +16,7 @@ git clone https://github.com/Diman198B/Gruztehmontazh
 1. npm install - Install required packages.
 2. npm run dev - Get compiled project files for Developer mode.
    npm run build - Get compiled project files for production mode.
-3. npm start - Compile the project and track changes on the local server provided by webpack.
+3. npm start - Compile the project and track changes on the local server provided by webpack (The command only works after one of the builds is done).
 ```
 
 ## Troubleshooting:
@@ -50,7 +50,7 @@ git clone https://github.com/Diman198B/Gruztehmontazh
 1. npm install -Установка необходимых пакетов.
 2. npm run dev - Получение скомпилированных файлов проекта для режима "Разработчика".
    npm run build - Получение скомпилированных файлов проекта для режима "Продакшн".
-3. npm start - Компиляция проекта и отслеживание изменений на локальном сервере предоставляемым webpack.
+3. npm start - Компиляция проекта и отслеживание изменений на локальном сервере предоставляемым webpack (Комманда работает только после выполнения одной из сборок).
 ```
 
 ## Диагностика:
