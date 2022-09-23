@@ -4,9 +4,12 @@
 "Gruztekhmontazh" is a multi-page responsive site for a construction company, developed on the principle of Graceful Degradation.
 
 ## Run:
-1. Save or clone the repository on your PC.
-  _git clone https://github.com/Diman198B/Gruztehmontazh_
+1. Save or clone the repository on your PC. 
+```
+git clone https://github.com/Diman198B/Gruztehmontazh       
+```
 [Learn more](https://git-scm.com/book/ru/v2/Приложение-C%3A-Команды-Git-Клонирование-и-создание-репозиториев)
+
 2. If you want to view the site, open the src/pages/index.html file in your browser.
 3. To get the compiled project files in the /dist folder for developer or production modes:
 ```
@@ -36,8 +39,11 @@ HTML, CSS, JavaScript, Jquery, Webpack.
 
 ## Запуск: 
 1. Сохраните или клонируйте репозиторий себе на ПК.  
-  _git clone https://github.com/Diman198B/Gruztehmontazh_  
+```
+git clone https://github.com/Diman198B/Gruztehmontazh
+```
 [Подробнее](https://git-scm.com/book/ru/v2/Приложение-C%3A-Команды-Git-Клонирование-и-создание-репозиториев)
+
 2. Если хотите посмотреть сайт, откройте файл src/pages/index.html в своем браузере.
 3. Чтобы получить скомпилированные файлы проекта в папке /dist для режимов разработчика или продакшн:
 ```
