@@ -1,7 +1,7 @@
-# "Gruztekhmontazh"
+# "Gruztehmontazh"
 
 ## Description:
-"Gruztekhmontazh" is a multi-page responsive site for a developer company, developed on the principle of Graceful Degradation.
+"Gruztehmontazh" is a multi-page responsive site for a developer company, developed on the principle of Graceful Degradation.
 
 ## Run:
 1. Save or clone the repository on your PC. 
