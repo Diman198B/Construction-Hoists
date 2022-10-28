@@ -1,7 +1,7 @@
 # "Gruztehmontazh"
 
 ## Description:
-"Gruztehmontazh" is a multi-page responsive site for a developer company, developed on the principle of Graceful Degradation.
+"Gruztehmontazh" is a multi-page responsive site for a developer company, developed on the principle of Graceful Degradation. I designed the site from scratch.
 
 ## Run:
 1. Save or clone the repository on your PC. 
@@ -35,7 +35,7 @@ HTML, CSS, JavaScript, Jquery, Webpack, npm, git.
 # "Грузтехмонтаж"
 
 ## Описание:
-"Грузтехмонтаж" -многостраничный отзывчивый сайт для строительной компании, разработанный по принципу Graceful Degradation.
+"Грузтехмонтаж" -многостраничный отзывчивый сайт для строительной компании, разработанный по принципу Graceful Degradation. Дизайн сайта я разработал с нуля.
 
 ## Запуск: 
 1. Сохраните или клонируйте репозиторий себе на ПК.  
