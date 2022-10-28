@@ -20,13 +20,13 @@ git clone https://github.com/Diman198B/Gruztehmontazh
 ```
 
 ## Troubleshooting:
-The site is designed for various devices ranging from mobile (with a minimum resolution of 320px) to large screens of computer monitors. The site may not work correctly in some older versions of browsers. If the site does not display correctly in your browser, then try: Update your browser version, or install a modern browser and run the site in it.
+The site is designed for various devices ranging from mobile (with a minimum resolution of 320px) to large screens of computer monitors (from 1200px).
 
 ## Author:
 Dmitry Barabash
  
 ## Used technologies:
-HTML, CSS, JavaScript, Jquery, Webpack.   
+HTML, CSS, JavaScript, Jquery, Webpack, npm, git.  
 
 
 
@@ -54,10 +54,10 @@ git clone https://github.com/Diman198B/Gruztehmontazh
 ```
 
 ## Диагностика:
-Сайт разработан под различные устройства начиная от мобильных (с минимальным разрешением 320px) заканчивая большими экранами компьютерных мониторов. Возможно, сайт будет некорректно работать в некоторых старых версиях браузеров. Если в вашем браузере сайт некорректно отображается то попробуйте: Обновите версию своего браузера, либо установите современный браузер и запустите сайт в нём.
+Сайт разработан под различные устройства начиная от мобильных (с минимальным разрешением 320px) заканчивая большими экранами компьютерных мониторов (от 1200px). 
 
 ## Автор:
 Дмитрий Барабаш
  
 ## Используемые технологии:
-HTML, CSS, JavaScript, Jquery, Webpack.  
+HTML, CSS, JavaScript, Jquery, Webpack, npm, git.  
