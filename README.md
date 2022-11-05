@@ -13,10 +13,13 @@ git clone https://github.com/Diman198B/Gruztehmontazh
 2. If you want to view the site, open the src/pages/index.html file in your browser.
 3. To get the compiled project files in the /dist folder for developer or production modes:
 ```
-1. npm install - Install required packages.
-2. npm run dev - Get compiled project files for Developer mode.
+1. Install Node.js and npm on your PC (If not installed).
+2. npm install - Install required packages.
+3. npm run dev - Get compiled project files for Developer mode.
    npm run build - Get compiled project files for production mode.
-3. npm start - Compile the project and track changes on the local server provided by webpack (The command only works after one of the builds is done).
+4. npm start - Compile the project and track changes on the local server provided by webpack (The command only works after one of the builds is done).
+   
+   If after entering the commands in steps 3 and 4, the compiler gives an error, then repeat the command 1-2 more times, or clear the npm cache with the command: npm cache clear --force, and repeat the command.
 ```
 
 ## Troubleshooting:
@@ -26,7 +29,7 @@ The site is designed for various devices ranging from mobile (with a minimum res
 Dmitry Barabash
  
 ## Used technologies:
-HTML, CSS, JavaScript, Jquery, Webpack, npm, git.  
+HTML, CSS, JavaScript, Jquery, Webpack 5, npm, git.  
 
 
 
@@ -47,10 +50,13 @@ git clone https://github.com/Diman198B/Gruztehmontazh
 2. Если хотите посмотреть сайт, откройте файл src/pages/index.html в своем браузере.
 3. Чтобы получить скомпилированные файлы проекта в папке /dist для режимов разработчика или продакшн:
 ```
-1. npm install -Установка необходимых пакетов.
-2. npm run dev - Получение скомпилированных файлов проекта для режима "Разработчика".
+1. Установите себе на ПК Node.js и npm (Если не установлены).
+2. npm install -Установка необходимых пакетов.
+3. npm run dev - Получение скомпилированных файлов проекта для режима "Разработчика".
    npm run build - Получение скомпилированных файлов проекта для режима "Продакшн".
-3. npm start - Компиляция проекта и отслеживание изменений на локальном сервере предоставляемым webpack (Комманда работает только после выполнения одной из сборок).
+4. npm start - Компиляция проекта и отслеживание изменений на локальном сервере предоставляемым webpack (Комманда работает только после выполнения одной из сборок).
+
+   Если после ввода команд п.3 и 4, компилятор выдает ошибку, то повторите команду еще 1-2 раза, либо почистите кэш npm командой: npm cache clear --force, и повторите команду. 
 ```
 
 ## Диагностика:
@@ -60,4 +66,4 @@ git clone https://github.com/Diman198B/Gruztehmontazh
 Дмитрий Барабаш
  
 ## Используемые технологии:
-HTML, CSS, JavaScript, Jquery, Webpack, npm, git.  
+HTML, CSS, JavaScript, Jquery, Webpack 5, npm, git.  
