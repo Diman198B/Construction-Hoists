@@ -1,6 +1,5 @@
 import "./src/css/style.css";
-const $ = require('jquery'); 
-
+const $ = require('jquery');
 
 let Diman = {
     language: "javascript"
