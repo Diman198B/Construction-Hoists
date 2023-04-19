@@ -1,12 +1,12 @@
 # "Gruztehmontazh"
 
 ## Description:
-"Gruztehmontazh" is a multi-page responsive site for a developer company, developed on the principle of Graceful Degradation. I designed the site from scratch.
+"Gruztehmontazh" is a multi-page responsive site for a developer company. I designed the site from scratch.
 
 ## Run:
 1. Save or clone the repository on your PC. 
 ```
-git clone https://github.com/Diman198B/Gruztehmontazh       
+git clone https://github.com/Diman198B/Gruztehmontazh.git       
 ```
 [Learn more](https://git-scm.com/book/ru/v2/Приложение-C%3A-Команды-Git-Клонирование-и-создание-репозиториев)
 
@@ -29,7 +29,7 @@ The site is designed for various devices ranging from mobile (with a minimum res
 Dmitry Barabash
  
 ## Used technologies:
-HTML, CSS, JavaScript, Jquery, Webpack 5, npm, git.  
+HTML, CSS, JavaScript, Jquery, Webpack 5, git.  
 
 
 
@@ -38,12 +38,12 @@ HTML, CSS, JavaScript, Jquery, Webpack 5, npm, git.
 # "Грузтехмонтаж"
 
 ## Описание:
-"Грузтехмонтаж" -многостраничный отзывчивый сайт для строительной компании, разработанный по принципу Graceful Degradation. Дизайн сайта я разработал с нуля.
+"Грузтехмонтаж" - многостраничный отзывчивый сайт для строительной компании. Дизайн сайта я разработал с нуля.
 
 ## Запуск: 
 1. Сохраните или клонируйте репозиторий себе на ПК.  
 ```
-git clone https://github.com/Diman198B/Gruztehmontazh
+git clone https://github.com/Diman198B/Gruztehmontazh.git
 ```
 [Подробнее](https://git-scm.com/book/ru/v2/Приложение-C%3A-Команды-Git-Клонирование-и-создание-репозиториев)
 
@@ -66,4 +66,4 @@ git clone https://github.com/Diman198B/Gruztehmontazh
 Дмитрий Барабаш
  
 ## Используемые технологии:
-HTML, CSS, JavaScript, Jquery, Webpack 5, npm, git.  
+HTML, CSS, JavaScript, Jquery, Webpack 5, git.  
