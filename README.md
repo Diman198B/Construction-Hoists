@@ -6,7 +6,7 @@
 ## Run:
 1. Save or clone the repository on your PC. 
 ```
-git clone https://github.com/Diman198B/Gruztehmontazh.git       
+git clone https://github.com/Diman198B/Construction-Hoists.git      
 ```
 [Learn more](https://git-scm.com/book/ru/v2/Приложение-C%3A-Команды-Git-Клонирование-и-создание-репозиториев)
 
@@ -43,7 +43,7 @@ HTML, CSS, JavaScript, Jquery, Webpack 5, git.
 ## Запуск: 
 1. Сохраните или клонируйте репозиторий себе на ПК.  
 ```
-git clone https://github.com/Diman198B/Gruztehmontazh.git
+git clone https://github.com/Diman198B/Construction-Hoists.git
 ```
 [Подробнее](https://git-scm.com/book/ru/v2/Приложение-C%3A-Команды-Git-Клонирование-и-создание-репозиториев)
 
