@@ -1,7 +1,7 @@
-# "Gruztehmontazh"
+# "Сonstruction hoists"
 
 ## Description:
-"Gruztehmontazh" is a multi-page responsive site for a developer company. I designed the site from scratch.
+"Сonstruction hoists" is a multi-page responsive site for a developer company. I designed the site from scratch.
 
 ## Run:
 1. Save or clone the repository on your PC. 
@@ -35,10 +35,10 @@ HTML, CSS, JavaScript, Jquery, Webpack 5, git.
 
 
 
-# "Грузтехмонтаж"
+# "Строительные подъемники"
 
 ## Описание:
-"Грузтехмонтаж" - многостраничный отзывчивый сайт для строительной компании. Дизайн сайта я разработал с нуля.
+"Строительные подъемники" - многостраничный отзывчивый сайт для строительной компании. Дизайн сайта я разработал с нуля.
 
 ## Запуск: 
 1. Сохраните или клонируйте репозиторий себе на ПК.  
